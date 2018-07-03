@@ -42,7 +42,7 @@ gem 'bulma-rails', '~> 0.7.1'
 # Simple form
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 
-# Adding Authentication
+# Adding authentication
 gem 'devise'
 
 # Reduces boot times through caching; required in config/boot.rb
